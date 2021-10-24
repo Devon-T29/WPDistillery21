@@ -28,7 +28,7 @@ Time spent: 8 hours
     - Tested in version: 3.13
     - Fixed in version: 3.14
   - [ ] Steps to recreate: First go to the edit portion of wp, next insert some javascript along with an image that forces a prompt, hit post and an alert should occur.
-<img src='https://github.com/Devon-T29/Instagram-Clone/blob/main/InstagramClone.gif' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Devon-T29/WPDistillery21/blob/main/GIF2.gif' width='' alt='Video Walkthrough' />
 
     
 
