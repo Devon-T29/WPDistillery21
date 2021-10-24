@@ -22,12 +22,12 @@ Time spent: 8 hours
   <img src='https://github.com/Devon-T29/WPDistillery21/blob/main/GIF2.gif' width='' alt='Video Walkthrough' />
 
   
-  ### 3. Edit Post XSS Vulnerability 
+  ### 3. Comment Post w/ Image XSS Vulnerability 
   - [ ] Summary: 
     - Vulnerability types: XSS
     - Tested in version: 3.13
     - Fixed in version: 3.14
-  - [ ] Steps to recreate: First go to the edit portion of wp, next insert some javascript into the desription of the post that forces a prompt, hit view attachment page and an alert should occur.
+  - [ ] Steps to recreate: First go to the edit portion of wp, next insert some javascript along with an image that forces a prompt, hit post and an alert should occur.
 <img src='https://github.com/Devon-T29/Instagram-Clone/blob/main/InstagramClone.gif' width='' alt='Video Walkthrough' />
 
     
