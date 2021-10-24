@@ -19,7 +19,7 @@ Time spent: 8 hours
     - Tested in version: 3.13
     - Fixed in version: 3.14
   - [ ] Steps to recreate: First go to the comment portion of wp, next insert some javascript that forces a prompt, hit post and an alert should occur.
-  <img src='https://github.com/Devon-T29/Instagram-Clone/blob/main/InstagramClone.gif' width='' alt='Video Walkthrough' />
+  <img src='https://github.com/Devon-T29/WPDistillery21/blob/main/GIF2.gif' width='' alt='Video Walkthrough' />
 
   
   ### 3. Edit Post XSS Vulnerability 
