@@ -10,7 +10,7 @@ Time spent: 8 hours
     - Tested in version: 3.13
     - Fixed in version: 3.14
   - [ ] Steps to recreate: First go to the media portion of wp, next insert some javascript that forces a prompt, then utilize the view/preview attachment page link to the rightmost section of the screen.
-  <img src='https://github.com/Devon-T29/Instagram-Clone/blob/main/InstagramClone.gif' width='' alt='Video Walkthrough' />
+  <img src='https://github.com/Devon-T29/WPDistillery21/blob/main/Gif%20%233.gif' width='' alt='Video Walkthrough' />
 
   
 ### 2. Comment Post XSS Vulnerability 
